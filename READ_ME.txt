@@ -13,7 +13,7 @@ Solar System Simulation
 
 '''bash
 pip install -r requirements.txt
-python simulacion_planetas.py
+python planet_simulation.py
 
 ## Motivation 
 
